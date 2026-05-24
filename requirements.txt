@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+pandas
+numpy
+pymongo[srv]
+python-dotenv
+streamlit
+plotly
+schedule
+fake-useragent
+lxml
